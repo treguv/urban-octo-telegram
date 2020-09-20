@@ -5,4 +5,3 @@ Deployed Application:
 https://treguv.github.io/urban-octo-telegram/
 
 ![Screenshot of webpage](/assets/images/webpage.png)
-![GitHub Logo](/images/github-logo.png)
