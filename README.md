@@ -4,5 +4,5 @@ This is a refactoring of the Horiseon webpage to accomidate for accessibility st
 Deployed Application:
 https://treguv.github.io/urban-octo-telegram/
 
-![Screenshot of webpage][/assets/images/webpage.png]
+![Screenshot of webpage](/assets/images/webpage.png)
 ![GitHub Logo](/images/github-logo.png)
